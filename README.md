@@ -108,7 +108,7 @@
 
 * BI-системы [Tableau](https://www.tableau.com/), [DataLens](https://datalens.yandex/7o7is1q6ikh23?tab=X1), [Superset](https://superset.apache.org/).
 
-------------------------------
+-----------------------------
 ### Дополнительно
 
 **[Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) - сохраняю пройденные курсы, сертификаты.**
@@ -118,4 +118,3 @@
 **[pet_projects](https://github.com/QuantumFluxx/pet_projects) - pet-проекты.**
 
 **[codewars_solutions](https://github.com/QuantumFluxx/codewars_solutions), [HackerRank_solutions](https://github.com/QuantumFluxx/HackerRank_solutions), [LeetCode_solutions](https://github.com/QuantumFluxx/LeetCode_solutions) - решения задач на языках Python, SQL, Ruby, Scala, Java, JavaScript.**
-
